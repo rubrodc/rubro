@@ -1,0 +1,7 @@
+# Badge
+
+## Appearance
+
+### Default
+
+### Primary
