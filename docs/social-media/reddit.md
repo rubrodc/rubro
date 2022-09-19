@@ -9,13 +9,13 @@ Communities I'm interested
 * [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) - Cryptocurrency News & Discussion
 * [r/CryptoHiveMinds](https://www.reddit.com/r/CryptoHiveMinds/)
 * [r/datacurator](https://www.reddit.com/r/datacurator/) - A place for discussion about the curation of digital data
-* [r/DataHoarder](https://www.reddit.com/r/DataHoarder/) - \([Check mine](Data%20Hoarder.md)\)
+* [r/DataHoarder](https://www.reddit.com/r/DataHoarder/) -
 * [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - A place to share and discuss visual representations of data: Graphs, charts, maps, etc.
 * [r/declutter](https://www.reddit.com/r/declutter/) - How to get rid of things you no longer need or want
 * [r/dogecoin](https://www.reddit.com/r/dogecoin/)
 * [r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/) - layperson-friendly explanations
-* [r/Glitch\_in\_the\_Matrix](https://www.reddit.com/r/Glitch_in_the_Matrix/) - Eye-witness event\(s\) that cannot be explained with critical thinking.
-* [r/LifeProTips](https://www.reddit.com/r/LifeProTips/) - Tips that improve your life in one way or another. \(I keep a [giant list](lpt-life-pro-tips.md) with topics\)
+* [r/Glitch\_in\_the\_Matrix](https://www.reddit.com/r/Glitch_in_the_Matrix/) - Eye-witness event(s) that cannot be explained with critical thinking.
+* [r/LifeProTips](https://www.reddit.com/r/LifeProTips/) - Tips that improve your life in one way or another.
 * [r/nextfuckinglevel](https://www.reddit.com/r/nextfuckinglevel/) - A subreddit for pictures, gifs and videos that are next fucking level.
 * [r/SatoshiStreetBets](https://www.reddit.com/r/SatoshiStreetBets/) - The Crypto version of WallStreetBets
 * [r/Stoicism](https://www.reddit.com/r/Stoicism/) - Learning and applying Stoic principles and techniques.

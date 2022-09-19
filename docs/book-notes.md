@@ -1,6 +1,5 @@
 # Book Notes
 
-[Design](/docs/design/)
 - Para iniciar el diseño de una identidad de marca o corpora siempre trabajo en blanco y negro, con papel y lápiz. Nunca empezaría a disenar bocetos en el ordenador; la máquina no mejorará tus ideas sino que, en mi opinión, las limitará. No importa lo bueno que sea tu ordenador y lo bien que sepas manejario, el ordenador nunca te dará unconcepto. En blanco y negro serás capaz de ver tu concepto desnudo, puesto que no habré distracciones. La prueba de tuego de cualquier identidad visual es que funcione bien en blanco y negro; este es el mínimo común denominado y el canon de los puristas.
 -Phil Cleaver
 

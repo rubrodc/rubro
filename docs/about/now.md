@@ -3,7 +3,7 @@
 Inspired by [Derek Sivers](https://sivers.org/nowff). If you have your own site, you should make one too.
 
 - Organizing my life with Obsidian
-- Working on [Crowdphare](www.crowdphare.com) with some friends
+- Working on [Crowdphare](https://www.crowdphare.com) with some friends
 - Searching for a new job
 - Currently practicing social distancing
 - Trying to archive design works
