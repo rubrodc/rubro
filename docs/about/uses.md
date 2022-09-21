@@ -37,6 +37,7 @@ Inspired by [uses.tech](https://uses.tech/)
 - WD 1TB External Hard Drive
 - HP 27es Monitor for bigger pixels
 - Steelseries Rival 100 Mouse
+- Canon EOS 250D 
 
 ## Development Tools
 - Hyper - ⚡ - The current command terminal I enjoy using.
