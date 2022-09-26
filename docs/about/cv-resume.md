@@ -1,11 +1,11 @@
 
 # CV / Resume
 
-<p>For me, design is dealing with situations at a precise moment or in a time interval. I’m not a big fan of the mythical “solving problems”. If we solve them why do we keep redesign identities, cars, products, etc? Perhaps we have popularized this quick answer for when we are asked what design is ...
+For me, design is dealing with situations at a precise moment or in a time interval. I’m not a big fan of the mythical “solving problems”. If we solve them why do we keep redesign identities, cars, products, etc? Perhaps we have popularized this quick answer for when we are asked what design is ...
 I do believe in the methods and approaches we take in order to minimize a possible new problem.
  As designers we work a lot in unfamiliar territories where most people are not synthesized, and the way we look at a problem, the questions we ask, the systems we create (whether it’s an identity, a sign, a poster, anything), allows us to help people understand something.
 As Massimo Vignelli said, the life of a designer is a life of struggle, the struggle against bad design. And there is a lot of bad design around this world.
-I will always try to fight it with 3 essential things in mind: My design must be simple, memorable and long lasting.</p>
+I will always try to fight it with 3 essential things in mind: My design must be simple, memorable and long lasting.
 
 ## 👨🏻‍💻 Professional Work
 **VOID Software**  
@@ -28,7 +28,7 @@ October 2020 - 2021
 
 **Grupo Vitor Monteiro**  
 Lead Designer
-may 2019 – november 2020 ———
+may 2019 – november 2020
 
 I started as an intern and quickly became responsible for the design projects of all 3 brands of the company. During my time at Vitor Monteiro Group, I was involved in projects related to the 3 brands of the company, Chimney Systems, House Heating Solutions and Laser Cutting.
 Key Responsibilities:
@@ -38,6 +38,8 @@ Designing, building and delivering HTML email campaigns
 Providing information and support on all digital queries to colleagues and clients
 Preparing and retouching images for a variety of applications
 Designing corporate identities, stationery, literature and signage
+
+
 september 2015 – october 2020
 **Freelance**
 Throughout university & my professional career I have managed my own freelance design business. During a period spanning 5 years to date I have made some works around identities and illustrations
@@ -52,19 +54,20 @@ and online presence
 Wodify x OutSystems Hackaton
 I participated in the Hackathon held by Wodify in partnership with OutSystems where for 24 hours, my team and I developed a concept for an application for the crossfit area.
 ​
+---
+
 ## 🎓 Education
 
-Maio de 2020
-Test line  
-Test line 2
-Logo Design: From Concept to Presentation by Sagi Haviv Domestika
-Abril de 2020
-Circular Logo Design with Draplin: Combine Type & Icons in a Classic Shape Skillshare
-Customizing Type with Draplin: Creating Wordmarks That Work Skillshare
-Design Great Stuff: How to Make Merch with Draplin Skillshare
-Design Like Draplin: 21 Tips for Speeding Up Your Design Workflow Skillshare
-Illustration with Draplin: Iterating with Shape, Style, and Color Skillshare
-Logo Design with Draplin: Secrets of Shape, Type and Color Skillshare
+May 2020
+- Logo Design: From Concept to Presentation by Sagi Haviv Domestika
+
+April 2020
+- Circular Logo Design with Draplin: Combine Type & Icons in a Classic Shape Skillshare
+- Customizing Type with Draplin: Creating Wordmarks That Work Skillshare
+- Design Great Stuff: How to Make Merch with Draplin Skillshare
+- Design Like Draplin: 21 Tips for Speeding Up Your Design Workflow Skillshare
+- Illustration with Draplin: Iterating with Shape, Style, and Color Skillshare
+- Logo Design with Draplin: Secrets of Shape, Type and Color Skillshare
 
 2015-2018
 **Design BA @ IADE - Universidade Europeia, Lisbon PT**

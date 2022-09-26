@@ -81,16 +81,6 @@ const config = {
             label: '📝 Blog',
             position: 'left'
           },
-          {
-            href: 'https://gumroad.com/rubrodc',
-            label: 'Wallpapers',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
