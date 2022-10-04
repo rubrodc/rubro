@@ -27,7 +27,7 @@
   --ifm-navbar-background-color: #f9fafb;
   --ifm-navbar-shadow: none;
   /*--ifm-background-surface-color: ;*/
-  --ifm-font-color-base: #475467; /*color text content*/
+  --ifm-font-color-base: #475767; /*color text content*/
   /*--ifm-color-content: ; */
   --ifm-font-color-base-inverse: var(--ifm-color-content-inverse);
   --ifm-font-color-secondary: var(--ifm-color-content-secondary);
@@ -91,7 +91,7 @@
 .menu__link {
   color: var(--ifm-menu-color);
   font-size: 0.875rem;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 1.5;
 }
 

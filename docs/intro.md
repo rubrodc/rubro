@@ -5,9 +5,8 @@ toc: false
 toc_float: false
 ---
 :::caution WORK IN PROGRESS
- WWYSIWYG: proceed at your own risk.
+ WYSIWYG: proceed at your own risk.
 :::
-
 
 # This is an extension of me — thoughts, ideas, patterns, rules-of-thumb, tools, cheatsheets, leverage points, questions, risks, and unknowns. All combined to make a better version of myself.
 
