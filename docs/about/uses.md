@@ -23,6 +23,9 @@ Inspired by [uses.tech](https://uses.tech/)
 - Figma - Design
 - Obsidian - Favourite note-taking app
 - Spotify - For music
+- [Rocket](https://matthewpalmer.net/rocket/) - Makes typing emoji faster and easier using Slack-style shortcuts.
+- [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS using keyboard shortcuts or snap areas
+
 
 ## This Website
 
