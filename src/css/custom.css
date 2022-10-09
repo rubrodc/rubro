@@ -188,8 +188,6 @@ a.menu__link.menu__link--sublist.menu__link--active{ /*second level*/
   border-left: 1.68px solid var(--ifm-color-primary);
   margin-left: -1.68px;
   font-weight: 600;
-  color:
-  /*background-color: rgba(0,0,0,0.05);*/
 }
 
 .menu__caret:before {
