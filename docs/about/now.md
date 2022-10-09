@@ -3,11 +3,7 @@
 Inspired by [Derek Sivers](https://sivers.org/nowff). If you have your own site, you should make one too.
 
 - Organizing my life with Obsidian
-- Working on [Crowdphare](https://www.crowdphare.com) with some friends
-- Searching for a new job
-- Currently practicing social distancing
 - Trying to archive design works
-- Building my personal brand
 - Reading and experimental a lot about personal wikis and knowledge bases
 
 ## Habits I’m trying to implement
@@ -23,8 +19,8 @@ Inspired by [Derek Sivers](https://sivers.org/nowff). If you have your own site,
 
 ## Books I’m reading
 
-- Meditations by Marcus Aurelius
 - 12 Rules for Life by Jordan Peterson
+- Confluencias. Supersignios gráficos by Félix Beltrán y Cruz Novillo
 
 ## Links
 

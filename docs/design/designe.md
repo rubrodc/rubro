@@ -21,6 +21,7 @@
 -   [101 Design Rules by Brian Collins](https://www.wearecollins.com/ideas/101-design-rules/)
 -   [Build a body of work](https://refinedmind.co/build-a-body-of-work)
 -   [52 Weeks of UX](https://52weeksofux.com/)
+- [Polish Design](https://designguide.pl/) - Guide to Polish design
 
 ## Resources
 

@@ -29,49 +29,10 @@ function Home() {
 
   return (
     <Layout title="Home" description={siteConfig.tagline}>
-      <header className={styles.heroBanner} style={{ minHeight: headerHeight }}>
-
-
-        <div className="row">
-          <div className="column">
-            <img className="headerphoto1" src={useBaseUrl("/img/burble.gif")}/>
-            <img className="headerphoto2" src={useBaseUrl("/img/bikeicon.jpg")}/>
-            <img className="headerphoto3" src={useBaseUrl("/img/arrows.jpg")}/>
-            <img className="headerphoto4" src={useBaseUrl("/img/36dot.jpg")}/>
-            <img className="headerphoto5" src={useBaseUrl("/img/qp.jpg")}/>
-            <img className="headerphoto6" src={useBaseUrl("/img/25abril.jpg")}/>
-          </div>
-          <div className="column">
-            <img className="headerphoto1" src={useBaseUrl("/img/palm-tree.png")}/>
-            <img className="headerphoto2" src={useBaseUrl("/img/eb.jpg")}/>
-            <img className="headerphoto3" src={useBaseUrl("/img/portal.gif")}/>
-            <img className="headerphoto4" src={useBaseUrl("/img/tek.jpg")}/>
-            <img className="headerphoto5" src={useBaseUrl("/img/paloma.jpg")}/>
-            <img className="headerphoto6" src={useBaseUrl("/img/yingyang.png")}/>
-          </div>
-          <div className="column">
-
-            <img className="headerphoto1" src={useBaseUrl("/img/looking.gif")}/>
-            <img className="headerphoto2" src={useBaseUrl("/img/flower.png")}/>
-            <img className="headerphoto3" src={useBaseUrl("/img/ampersand.png")}/>
-            <img className="headerphoto4" src={useBaseUrl("/img/mars2020.jpg")}/>
-            <img className="headerphoto5" src={useBaseUrl("/img/100.png")}/>
-            <img className="headerphoto6" src={useBaseUrl("/img/cs.png")}/>
-          </div>
-          <div className="column">
-            <img className="headerphoto1" src={useBaseUrl("/img/wallpaper.png")}/>
-            <img className="headerphoto2" src={useBaseUrl("/img/bloomstone.jpg")}/>
-            <img className="headerphoto3" src={useBaseUrl("/img/diamondhands.jpg")}/>
-            <img className="headerphoto4" src={useBaseUrl("/img/plus.gif")}/>
-            <img className="headerphoto5" src={useBaseUrl("/img/greative.jpg")}/>
-            <img className="headerphoto6" src={useBaseUrl("/img/spread-love.jpg")}/>
-          </div>
-
-        </div>
-
+      <header className="heroBanner" style={{ minHeight: headerHeight }}>
       </header>
       <div className="cover">
-        <h2 className="cover__title">RÚBEN RODRIGUES<sup>&reg;</sup></h2>
+        <h2 className="cover__title">RÚBEN RODRIGUES</h2>
         <h3 className="cover__subtitle">UI/UX DESIGNER & FULL TIME CREATIVE</h3>
       </div>
       <div className="footerino">
@@ -82,5 +43,7 @@ function Home() {
     </Layout>
   );
 }
+
+
 
 export default Home;
