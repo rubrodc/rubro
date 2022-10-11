@@ -200,7 +200,6 @@ a.menu__link.menu__link--sublist.menu__link--active{ /*second level*/
     transition: transform var(--ifm-transition-fast) linear;
 }
 
-
 .menu__link--sublist-caret:after {
       content: '';
       margin-left: auto;
@@ -212,7 +211,6 @@ a.menu__link.menu__link--sublist.menu__link--active{ /*second level*/
       width: 1rem;
       transition: transform var(--ifm-transition-fast) linear;
     }
-
 
 .alert{
   border-radius: 0px;
@@ -433,4 +431,32 @@ table-cell {
   max-width: 0px;
 }
 
+
+
+
+.content {
+margin: 0 auto;
+width: 50vw;
+max-width: 50em;
+padding-top: 120vh;
+}
+
+.sticky_bound {
+position: relative;
+}
+
+.poster_container {
+position: sticky;
+margin: 0 auto;
+height: 80vh;
+bottom: 10vh;
+margin-bottom: 10vh;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
 
