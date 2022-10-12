@@ -25,23 +25,35 @@ function Home() {
   }, []);
 
 
-
-
   return (
     <Layout title="Home" description={siteConfig.tagline}>
-      <header className="heroBanner" style={{ minHeight: headerHeight }}>
-      </header>
-      <div className="cover">
-        <h2 className="cover__title">RÚBEN RODRIGUES</h2>
-        <h3 className="cover__subtitle">UI/UX DESIGNER & FULL TIME CREATIVE</h3>
+      <div class="container">
+        <div class="display">
+          <span class="myname">Rúben Rodrigues<sup>(1997)</sup> is a Portuguese<br></br></span>
+          Ruben is a Portuguese UI UX Designer currently working at
+          
+              <div class="project">
+                <a class="link" href="https://void.pt/">Void Software</a>
+                <div class="image"><img src="https://voidsoftware.com/img/void_promo.jpg"></img></div>
+              </div>
+          
+           He's focusing on building products that matters for everybody to use. Ruben is a Portuguese UI UX Designer currently working at <a href="google.com">Void Software</a>. He's focusing on building products that matters for everybody to use.  
+        </div>
       </div>
-      <div className="footerino">
-				<p>…fascinated with how a creative outlook plays a vital role in life – a great meal, a hit song, an inspired building, to a business card that’s a conversation – spirits him to tease out, dream up and inspire the pursuit of great ideas. </p>
-			</div>
+
+      
+
 
       <main id="main" ref={mainRef} hidden={true}></main>
     </Layout>
   );
 }
+
+let $root = document.documentElement;
+let $body = document.body;
+document.body.addEventListener('mousemove', function(event){
+  $root.style.setProperty("--client-x", event.clientX + "px");
+    $root.style.setProperty("--client-y", event.clientY + "px");
+});
 
 export default Home;
