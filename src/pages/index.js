@@ -34,7 +34,7 @@ function Home() {
           
               <div class="project">
                 <a class="link" href="https://void.pt/">Void Software</a>
-                <div class="image"><img src="/img/herobanner.jpg"></img></div>
+                <div class="image"><img src="https://voidsoftware.com/img/void_promo.jpg"></img></div>
               </div>
           
            He's focusing on building products that matters for everybody to use. Ruben is a Portuguese UI UX Designer currently working at <a href="google.com">Void Software</a>. He's focusing on building products that matters for everybody to use.  

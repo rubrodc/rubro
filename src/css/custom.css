@@ -499,12 +499,3 @@ l.project .link {
   position: relative;
   width: 100%;
 }
-#thing {
-  /* mouseleave */
-  transition: transform 500ms ease;
-}
-
-#thing:hover {
-  /* mouseenter */
-  transition: transform 500ms ease;
-}
