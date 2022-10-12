@@ -44,6 +44,16 @@ function Home() {
   );
 }
 
+const images = [
+  'https://cdn.dribbble.com/users/821797/screenshots/16824647/media/d1f2444bcb478a5953c8146f91e121fe.jpg?compress=1&resize=1600x1200&vertical=top',
+  'https://cdn.dribbble.com/users/821797/screenshots/15644694/media/173d9ba919f0522b20de9522eae72b0b.jpg?compress=1&resize=1600x1200&vertical=top',
+  'https://cdn.dribbble.com/users/821797/screenshots/15227180/media/316d69f885eece8746b657683fa903e9.png?compress=1&resize=1600x1200&vertical=top',
+  'https://cdn.dribbble.com/users/821797/screenshots/11423433/media/63dbfe038d40bbcd2f9dfaae678fc8f0.jpg?compress=1&resize=1600x1200&vertical=top',
+  'https://cdn.dribbble.com/users/821797/screenshots/16815925/media/ed75d234cb28d50c0be4ef28a5a1aa01.jpg?compress=1&resize=1600x1200&vertical=top',
+  'https://cdn.dribbble.com/users/821797/screenshots/15114365/media/920883729d8b6787e1626c692b3af66e.png?compress=1&resize=1600x1200&vertical=top',
+  'https://cdn.dribbble.com/users/821797/screenshots/2224440/media/8b876ba1f59f21e0917d34d929a602c4.png?compress=1&resize=800x600&vertical=top',
+  'https://cdn.dribbble.com/users/821797/screenshots/16798837/media/04c2fbffb6e60592a11809485d64f394.jpg?compress=1&resize=1600x1200&vertical=top'];
+  
   
   const random = (min, max) => {
     return Math.floor(Math.random() * (max - min + 1) + min);
