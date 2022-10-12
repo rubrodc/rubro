@@ -40,11 +40,6 @@ function Home() {
            He's focusing on building products that matters for everybody to use. Ruben is a Portuguese UI UX Designer currently working at <a href="google.com">Void Software</a>. He's focusing on building products that matters for everybody to use.  
         </div>
       </div>
-
-      
-
-
-      <main id="main" ref={mainRef} hidden={true}></main>
     </Layout>
   );
 }
