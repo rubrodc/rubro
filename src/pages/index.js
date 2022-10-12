@@ -30,7 +30,7 @@ function Home() {
       <div class="container">
         <div class="display">
           <span class="myname">Rúben Rodrigues<sup>(1997)</sup> is a Portuguese<br></br></span>
-          Ruben is a Portuguese UI UX Designer currently working at <a href="https://void.pt" target={_blank}>Void Software</a>. He's focusing on building products that matters for everybody to use. Ruben is a Portuguese UI UX Designer currently working at <a href="google.com">Void Software</a>. He's focusing on building products that matters for everybody to use.  
+          Ruben is a Portuguese UI UX Designer currently working at <a href="https://void.pt">Void Software</a>. He's focusing on building products that matters for everybody to use. Ruben is a Portuguese UI UX Designer currently working at <a href="google.com">Void Software</a>. He's focusing on building products that matters for everybody to use.  
         </div>
       </div>
     </Layout>
