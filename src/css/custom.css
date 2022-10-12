@@ -433,30 +433,3 @@ table-cell {
 
 
 
-
-.content {
-margin: 0 auto;
-width: 50vw;
-max-width: 50em;
-padding-top: 120vh;
-}
-
-.sticky_bound {
-position: relative;
-}
-
-.poster_container {
-position: sticky;
-margin: 0 auto;
-height: 80vh;
-bottom: 10vh;
-margin-bottom: 10vh;
-}
-
-img {
-  display: block;
-  width: 100%;
-  height: auto;
-  margin: 0 auto;
-}
-
