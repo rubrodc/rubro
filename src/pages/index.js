@@ -46,11 +46,4 @@ function Home() {
   );
 }
 
-let $root = document.documentElement;
-let $body = document.body;
-document.body.addEventListener('mousemove', function(event){
-  $root.style.setProperty("--client-x", event.clientX + "px");
-    $root.style.setProperty("--client-y", event.clientY + "px");
-});
-
 export default Home;
