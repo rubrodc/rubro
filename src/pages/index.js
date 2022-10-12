@@ -30,12 +30,6 @@ function Home() {
   return (
     <Layout title="Home" description={siteConfig.tagline}>
       <header className="heroBanner" style={{ minHeight: headerHeight }}>
-      <nav>
-  
-</nav>  <div class="main">
-  <div class="content">
-  </div>
-</div>
       </header>
       <div className="cover">
         <h2 className="cover__title">RÚBEN RODRIGUES</h2>
