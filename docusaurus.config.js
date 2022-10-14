@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Rúben Rodrigues',
+        title: '',
         logo: {
           alt: 'My Site Logo',
           src: 'img/mylogo.svg',
@@ -68,17 +68,17 @@ const config = {
             type: 'doc',
             position: 'left',
             docId: 'intro',
-            label: '🌱 Digital Garden',
+            label: 'Digital Garden',
           },
           {
             to: '/resources/intro',   // To highlight the navbar item, you must link to a document, not a top-level directory
             position: 'left',
-            label: '🔗 Resources',
+            label: 'Resources',
             activeBaseRegex: `/resources/`,
           },
           {
             to: '/blog',
-            label: '📝 Blog',
+            label: 'Blog',
             position: 'left'
           },
         ],
