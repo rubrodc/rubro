@@ -70,17 +70,4 @@ function Home() {
   );
 }
 
-document.addEventListener("mousemove", function(e){
-  var xPos = e.pageX - (window.innerWidth / 2);
-  var yPos = e.pageY - (window.innerHeight / 2);
-
-  var xPosPercent = ((e.pageX / window.innerWidth) * 100);
-  var yPosPercent = ((e.pageY / window.innerHeight) * 100);
-
-console.log(xPosPercent, yPosPercent)
-
-});
-
-
-
 export default Home;
