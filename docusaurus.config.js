@@ -85,8 +85,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `© ${new Date().getFullYear()} Rúben Rodrigues. Made in Portugal 🇵🇹
- Built with Docusaurus 🦖 Hosted with Vercel `,
+        copyright: `© ${new Date().getFullYear()} Rúben Rodrigues. Made in Portugal 🇵🇹`,
       },
       prism: {
         theme: lightCodeTheme,
