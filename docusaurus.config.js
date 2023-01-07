@@ -50,9 +50,11 @@ const config = {
         routeBasePath: 'resources',
         sidebarPath: require.resolve('./sidebarsDemo.js'),
         // ... other options
-      },
+      }
     ],
+    'docusaurus-lunr-search',
   ],
+
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */

@@ -37,31 +37,43 @@ function Home() {
       <div className="content">
         <div className="grid">
           <div className="grid__item" style={{ '--r': 1, '--c': 4 }}>
-            <div className="grid__item-img" style={{ backgroundImage: 'url(https://cdn.dribbble.com/userupload/4255920/file/original-d6edd8b0407b95ddc0a4743e5a9034cf.jpg?compress=1&resize=1504x1128)' }}></div>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/25abril.jpg)' }}></div>
           </div>
-          <div className="grid__item" style={{ '--r': 6, '--c': 2 }}>
-            <div className="grid__item-img" style={{ backgroundImage: 'url(https://cdn.dribbble.com/userupload/4246409/file/original-ef3aa7f0b6b1ef1a8c546b1ea8fa0581.png?compress=1&resize=2048x2048)' }}></div>
+          <div className="grid__item" style={{ '--r': 6, '--c': 5 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/36dot.jpg)' }}></div>
           </div>
           <div className="grid__item" style={{ '--r': 8, '--c': 7 }}>
-            <div className="grid__item-img" style={{ backgroundImage: 'url(https://cdn.dribbble.com/users/1731652/screenshots/20265690/media/bfa5dd01494ebfc35d83d4d78afb1379.jpeg?compress=1&resize=800x600&vertical=top)' }}></div>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/100.png)' }}></div>
           </div>
           <div className="grid__item" style={{ '--r': 9, '--c': 1 }}>
-            <div className="grid__item-img" style={{ backgroundImage: 'url(https://cdn.dribbble.com/userupload/4215046/file/original-b3ec5cdbaa8f96e3d93358f327797433.png?compress=1&resize=1504x1128)' }}></div>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/ampersand.png)' }}></div>
           </div>
           <div className="grid__item" style={{ '--r': 9, '--c': 5 }}>
-            <div className="grid__item-img" style={{ backgroundImage: 'url(https://cdn.dribbble.com/userupload/4169021/file/original-97a27d5648170df7efe29825c18dd527.png?compress=1&resize=1504x1128)' }}></div>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/arrows.jpg)' }}></div>
           </div>
           <div className="grid__item" style={{ '--r': 8, '--c': 3 }}>
-            <div className="grid__item-img" style={{ backgroundImage: 'url(https://cdn.dribbble.com/userupload/4174086/file/original-0f49c76f9d9b0b81efc69215b2687d21.jpg?compress=1&resize=2048x1536)' }}></div>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/bikeicon.jpg)' }}></div>
           </div>
-          <div className="grid__item" style={{ '--r': 5, '--c': 9 }}>
-            <div className="grid__item-img" style={{ backgroundImage: 'url(https://cdn.dribbble.com/userupload/4169021/file/original-97a27d5648170df7efe29825c18dd527.png?compress=1&resize=1504x1128)' }}></div>
+          <div className="grid__item" style={{ '--r': 5, '--c': 2 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/bloomstone.jpg)' }}></div>
           </div>
           <div className="grid__item" style={{ '--r': 2, '--c': 6 }}>
-            <div className="grid__item-img" style={{ backgroundImage: 'url(https://cdn.dribbble.com/userupload/4169021/file/original-97a27d5648170df7efe29825c18dd527.png?compress=1&resize=1504x1128)' }}></div>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/burble.gif)' }}></div>
           </div>
           <div className="grid__item" style={{ '--r': 3, '--c': 4 }}>
-            <div className="grid__item-img" style={{ backgroundImage: 'url(https://cdn.dribbble.com/userupload/4169021/file/original-97a27d5648170df7efe29825c18dd527.png?compress=1&resize=1504x1128)' }}></div>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/cs.png)' }}></div>
+          </div>
+          <div className="grid__item" style={{ '--r': 2, '--c': 8 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/diamondhands.jpg)' }}></div>
+          </div>
+          <div className="grid__item" style={{ '--r': 1, '--c': 2 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/eb.jpg)' }}></div>
+          </div>
+          <div className="grid__item" style={{ '--r': 4, '--c': 5 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/flower.png)' }}></div>
+          </div>
+          <div className="grid__item" style={{ '--r': 5, '--c': 8 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/greative.jpg)' }}></div>
           </div>
         </div> {/* end .grid */}
         <main id="main" ref={mainRef} hidden={true}></main>
