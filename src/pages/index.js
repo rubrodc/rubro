@@ -75,6 +75,39 @@ function Home() {
           <div className="grid__item" style={{ '--r': 5, '--c': 8 }}>
             <div className="grid__item-img" style={{ backgroundImage: 'url(img/greative.jpg)' }}></div>
           </div>
+          <div className="grid__item" style={{ '--r': 7, '--c': 4 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/looking.gif)' }}></div>
+          </div>
+          <div className="grid__item" style={{ '--r': 3, '--c': 1 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/mars2020.jpg)' }}></div>
+          </div>
+          <div className="grid__item" style={{ '--r': 2, '--c': 6 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/palm-tree.png)' }}></div>
+          </div>
+          <div className="grid__item" style={{ '--r': 1, '--c': 4 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/paloma.jpg)' }}></div>
+          </div>
+          <div className="grid__item" style={{ '--r': 6, '--c': 7 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/plus.gif)' }}></div>
+          </div>
+          <div className="grid__item" style={{ '--r': 4, '--c': 2 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/portal.gif)' }}></div>
+          </div>
+          <div className="grid__item" style={{ '--r': 10, '--c': 4 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/qp.jpg)' }}></div>
+          </div>
+          <div className="grid__item" style={{ '--r': 11, '--c': 6 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/spread-love.jpg)' }}></div>
+          </div>
+          <div className="grid__item" style={{ '--r': 12, '--c': 3 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/tek.jpg)' }}></div>
+          </div>
+          <div className="grid__item" style={{ '--r': 10, '--c': 8 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/wallpaper.png)' }}></div>
+          </div>
+          <div className="grid__item" style={{ '--r': 13, '--c': 5 }}>
+            <div className="grid__item-img" style={{ backgroundImage: 'url(img/yingyang.png)' }}></div>
+          </div>
         </div> {/* end .grid */}
         <main id="main" ref={mainRef} hidden={true}></main>
       </div> {/* end .content */}

@@ -1,6 +1,3 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
-
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
@@ -13,26 +10,22 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'rubrodc', // Usually your GitHub org/user name.
-  projectName: 'rubro', // Usually your repo name.
-
+  organizationName: 'rubrodc', 
+  projectName: 'rubro', 
   presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          // id: 'docs', // omitted => default instance
           routeBasePath: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/rubrodc/rubro/edit/main/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/rubrodc/rubro/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -49,7 +42,6 @@ const config = {
         path: 'resources',
         routeBasePath: 'resources',
         sidebarPath: require.resolve('./sidebarsDemo.js'),
-        // ... other options
       }
     ],
     'docusaurus-lunr-search',
@@ -73,7 +65,7 @@ const config = {
             label: 'Digital Garden',
           },
           {
-            to: '/resources/intro',   // To highlight the navbar item, you must link to a document, not a top-level directory
+            to: '/resources/intro', 
             position: 'left',
             label: 'Resources',
             activeBaseRegex: `/resources/`,
