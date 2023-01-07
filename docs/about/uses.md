@@ -13,7 +13,7 @@ Inspired by [uses.tech](https://uses.tech/)
 - Apple iPad Pro 12'9 + Apple Pencil 2 + Keyboard (Late 2018)
 - MI Curved Gaming 34''HP 27es Monitor for bigger pixels
 - WD 1TB External Hard Drive
-- Steelseries Rival 100 Mouse
+- Logitech MX Master 3
 - Canon EOS 250D
 
 ## Software

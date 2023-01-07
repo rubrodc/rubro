@@ -537,21 +537,21 @@ table-cell {
 
 
 /* custom scrollbar */
-::-webkit-scrollbar {
+*::-webkit-scrollbar {
   width: 20px;
 }
 
-::-webkit-scrollbar-track {
-  background-color: transparent;
+*::-webkit-scrollbar-track {
+  background-color: transparent !important;
 }
 
-::-webkit-scrollbar-thumb {
-  background-color: var(--ifm-menu-color);
-  border-radius: 20px;
-  border: 6px solid transparent;
+*::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, .1) !important;
+  border-radius: 20px !important;
+  border: 6px solid transparent !important;
   background-clip: content-box;
 }
 
-::-webkit-scrollbar-thumb:hover {
-  background-color: var(--ifm-menu-color);
+*::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(0, 0, 0, 0.3) !important;
 }

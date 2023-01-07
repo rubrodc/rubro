@@ -40,9 +40,6 @@ Used to assist particular content areas and data visualization.
 | Orange Lightest | #fef0e6 | `--color-orange-lightest` |
 
 
-## re palette
-Used for text, borders, backgrounds and shadows.
-
 ---
 
 ## Semantic palette
@@ -85,4 +82,3 @@ light-color-background-button
 light-color-primary-500
 dark-color-primary-500
 
-![[Pasted image 20220915114305.png]]
