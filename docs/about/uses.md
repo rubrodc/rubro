@@ -30,12 +30,12 @@ Inspired by [uses.tech](https://uses.tech/)
 This website is built using [Docusaurus](https://docusaurus.io/)  🦖 and is hosted by [Vercel](https://vercel.com)
 
 
-### Airsoft
+## Airsoft
 
 - [ASG CZ P-09](https://amzn.to/3vbJsZO)
 - [CA SCAR-L MK16](https://www.airsoftstation.com/classic-army-fn-herstal-licensed-scar-l-sportline-tan-airsoft-rifle/)
 
-### Cycling
+## Cycling
 - Swift Ultravox SSL
 - DS B10
 
