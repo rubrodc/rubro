@@ -1,6 +1,6 @@
 ---
 slug: first-blog-post
-title: First Blog Post
+title: "Hello World: Introducing My New Blog"
 authors:
   name: Rúben Rodrigues
   title: UI / UX Designer — Full time creative

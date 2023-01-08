@@ -175,7 +175,7 @@
      --ifm-blockquote-shadow:  none;
      --ifm-blockquote-color:  var(--ifm-color-emphasis-800);
      --ifm-blockquote-border-color:  var(--ifm-color-emphasis-300);
-     --ifm-hr-background-color:  var(--ifm-color-emphasis-200);
+     --ifm-hr-background-color:  var(--ifm-color-emphasis-200) !important;
      --ifm-hr-height:  1px;
      --ifm-hr-margin-vertical:  1.5rem;
      --ifm-scrollbar-size:  7px;
@@ -463,7 +463,7 @@
      --ifm-blockquote-shadow:  none;
      --ifm-blockquote-color:  var(--ifm-color-emphasis-800);
      --ifm-blockquote-border-color:  var(--ifm-color-emphasis-300);
-     --ifm-hr-background-color:  var(--ifm-color-emphasis-200);
+     --ifm-hr-background-color:  var(--ifm-color-emphasis-200) !important;
      --ifm-hr-height:  1px;
      --ifm-hr-margin-vertical:  1.5rem;
      --ifm-scrollbar-size:  7px;
