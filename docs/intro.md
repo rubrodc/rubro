@@ -5,7 +5,7 @@ toc: false
 toc_float: false
 ---
 
-# This is an extension of me — thoughts, ideas, patterns, rules-of-thumb, tools, cheatsheets, leverage points, questions, risks, and unknowns. All combined to make a better version of myself.
+# This is a reflection of myself - my thoughts, ideas, patterns, rules-of-thumb, tools, cheat sheets, leverage points, questions, risks, and unknowns. It is a way for me to improve and become a better version of myself."
 
 Based on digital garden, personal knowledge management, exobrain, brain dump...
 You can read more [about me](/about/about-me.md).

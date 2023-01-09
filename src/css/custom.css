@@ -24,7 +24,7 @@
      --ifm-color-primary-darkest:  rgb(37,  84,  160);
      --ifm-color-primary-light:  rgb(83,  140,  233);
      --ifm-color-primary-lighter:  rgb(114,  161,  237);
-     --ifm-color-primary-lightest:  rgb(154,  188,  242);
+     --ifm-color-primary-lightest:  rgb(193, 217, 255);
      --ifm-color-primary-contrast-background:  rgb(235,  242,  252);
      --ifm-color-primary-contrast-foreground:  rgb(16,  36,  69);
      --ifm-color-secondary-dark:  rgb(212,  213,  216);
@@ -33,7 +33,7 @@
      --ifm-color-secondary-light:  rgb(238,  240,  242);
      --ifm-color-secondary-lighter:  rgb(241,  242,  245);
      --ifm-color-secondary-lightest:  rgb(245,  246,  248);
-     --ifm-color-secondary-contrast-background:  rgb(253,  253,  254);
+     --ifm-color-secondary-contrast-background:  rgb(243, 243, 244);
      --ifm-color-secondary-contrast-foreground:  rgb(71,  71,  72);
      --ifm-color-success-dark:  rgb(0,  148,  0);
      --ifm-color-success-darker:  rgb(0,  139,  0);
@@ -156,10 +156,10 @@
      --ifm-list-paragraph-margin:  1rem;
      --ifm-table-cell-padding:  0.75rem;
      --ifm-table-background:  transparent;
-     --ifm-table-stripe-background:  rgba(0,  0,  0,  0.03);
+     --ifm-table-stripe-background:  rgba(0,  0,  0,  0.08);
      --ifm-table-border-width:  1px;
      --ifm-table-border-color:  var(--ifm-color-emphasis-300);
-     --ifm-table-head-background:  inherit;
+     --ifm-table-head-background:  var(--ifm-background-color);
      --ifm-table-head-color:  inherit;
      --ifm-table-head-font-weight:  var(--ifm-font-weight-bold);
      --ifm-table-cell-color:  inherit;
@@ -186,11 +186,11 @@
      --ifm-alert-border-color:  inherit;
      --ifm-alert-border-radius:  var(--ifm-global-radius);
      --ifm-alert-border-width:  0px;
-     --ifm-alert-border-left-width:  5px;
+     --ifm-alert-border-left-width:  0px;
      --ifm-alert-color:  var(--ifm-font-color-base);
      --ifm-alert-padding-horizontal:  var(--ifm-spacing-horizontal);
      --ifm-alert-padding-vertical:  var(--ifm-spacing-vertical);
-     --ifm-alert-shadow:  var(--ifm-global-shadow-lw);
+     --ifm-alert-shadow:  none;
      --ifm-avatar-intro-margin:  1rem;
      --ifm-avatar-intro-alignment:  inherit;
      --ifm-avatar-photo-size:  3rem;
@@ -444,10 +444,10 @@
      --ifm-list-paragraph-margin:  1rem;
      --ifm-table-cell-padding:  0.75rem;
      --ifm-table-background:  transparent;
-     --ifm-table-stripe-background:  rgba(255,  255,  255,  0.03);
+     --ifm-table-stripe-background:  rgba(255,  255,  255,  0.08);
      --ifm-table-border-width:  1px;
      --ifm-table-border-color:  var(--ifm-color-emphasis-300);
-     --ifm-table-head-background:  inherit;
+     --ifm-table-head-background:  var(--ifm-background-color);
      --ifm-table-head-color:  inherit;
      --ifm-table-head-font-weight:  var(--ifm-font-weight-bold);
      --ifm-table-cell-color:  inherit;
@@ -474,11 +474,11 @@
      --ifm-alert-border-color:  inherit;
      --ifm-alert-border-radius:  var(--ifm-global-radius);
      --ifm-alert-border-width:  0px;
-     --ifm-alert-border-left-width:  5px;
+     --ifm-alert-border-left-width:  0px;
      --ifm-alert-color:  var(--ifm-font-color-base);
      --ifm-alert-padding-horizontal:  var(--ifm-spacing-horizontal);
      --ifm-alert-padding-vertical:  var(--ifm-spacing-vertical);
-     --ifm-alert-shadow:  var(--ifm-global-shadow-lw);
+     --ifm-alert-shadow:  none;
      --ifm-avatar-intro-margin:  1rem;
      --ifm-avatar-intro-alignment:  inherit;
      --ifm-avatar-photo-size:  3rem;
@@ -576,6 +576,7 @@
      --ifm-tabs-padding-horizontal:  1rem;
      --ifm-tabs-padding-vertical:  1rem;
 }
+
  .navbar__link {
      color: var(--ifm-navbar-link-color);
      background-color: transparent;
@@ -915,3 +916,55 @@
      content: '';
  }
  
+
+ .markdown a  {
+     color:  var(--ifm-color-content);
+     text-decoration:  var(--ifm-link-hover-decoration);
+     text-decoration-color: var(--ifm-table-stripe-background);
+     text-underline-offset: 4px;
+ }
+
+
+a:hover  {
+     color:  var(--ifm-link-hover-color);
+     text-decoration:  none;
+ }
+
+ .alert--secondary  {
+     --ifm-alert-background-color:  var( --ifm-color-secondary-contrast-background );
+     --ifm-alert-background-color-highlight:  rgba(235,  237,  240,  0.15);
+     --ifm-alert-foreground-color:  var( --ifm-color-secondary-contrast-foreground );
+     --ifm-alert-border-color:  var(--ifm-color-secondary-dark);
+ }
+
+ .alert--success  {
+     --ifm-alert-background-color:  var( --ifm-color-success-contrast-background );
+     --ifm-alert-background-color-highlight:  rgba(0,  164,  0,  0.15);
+     --ifm-alert-foreground-color:  var( --ifm-color-success-contrast-foreground );
+     --ifm-alert-border-color:  var(--ifm-color-success-dark);
+ }
+
+ .alert--info  {
+     --ifm-alert-background-color:  var( --ifm-color-info-contrast-background );
+     --ifm-alert-background-color-highlight:  rgba(84,  199,  236,  0.15);
+     --ifm-alert-foreground-color:  var( --ifm-color-info-contrast-foreground );
+     --ifm-alert-border-color:  var(--ifm-color-info-dark);
+ }
+
+.alert--warning  {
+     --ifm-alert-background-color:  var( --ifm-color-warning-contrast-background );
+     --ifm-alert-background-color-highlight:  rgba(255,  186,  0,  0.15);
+     --ifm-alert-foreground-color:  var( --ifm-color-warning-contrast-foreground );
+     --ifm-alert-border-color:  var(--ifm-color-warning-dark);
+ }
+
+.alert--danger  {
+     --ifm-alert-background-color:  var( --ifm-color-danger-contrast-background );
+     --ifm-alert-background-color-highlight:  rgba(250,  56,  62,  0.15);
+     --ifm-alert-foreground-color:  var( --ifm-color-danger-contrast-foreground );
+     --ifm-alert-border-color:  var(--ifm-color-danger-dark);
+ }
+
+ .alert  {
+     
+ }
