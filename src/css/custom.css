@@ -964,7 +964,3 @@ a:hover  {
      --ifm-alert-foreground-color:  var( --ifm-color-danger-contrast-foreground );
      --ifm-alert-border-color:  var(--ifm-color-danger-dark);
  }
-
- .alert  {
-     
- }
