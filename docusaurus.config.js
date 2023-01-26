@@ -44,6 +44,15 @@ const config = {
         sidebarPath: require.resolve('./sidebarsDemo.js'),
       }
     ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'projects',
+        path: 'projects',
+        routeBasePath: 'projects',
+        sidebarPath: require.resolve('./sidebarsDemo.js'),
+      }
+    ],
     'docusaurus-lunr-search',
   ],
 
@@ -63,6 +72,12 @@ const config = {
             position: 'left',
             docId: 'intro',
             label: 'Digital Garden',
+          },
+          {
+            to: '/projects/intro', 
+            position: 'left',
+            label: 'Projects',
+            activeBaseRegex: `/projects/`,
           },
           {
             to: '/resources/intro', 

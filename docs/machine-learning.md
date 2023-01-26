@@ -1,5 +1,7 @@
 # Machine Learning
 
+- [There's an AI for that](https://theresanaiforthat.com/) - AI use cases. Updated daily. Brought to you by 
+
 ## Chat GPT
 [10 incredible ways ChatGPT can 10x your productivity in 2023](https://twitter.com/themattmic/status/1610634157704773633)  
 by [@themattmic](https://twitter.com/themattmic)

@@ -156,7 +156,7 @@
      --ifm-list-paragraph-margin:  1rem;
      --ifm-table-cell-padding:  0.75rem;
      --ifm-table-background:  transparent;
-     --ifm-table-stripe-background:  rgba(0,  0,  0,  0.08);
+     --ifm-table-stripe-background:  rgba(0,  0,  0,  0.2);
      --ifm-table-border-width:  1px;
      --ifm-table-border-color:  var(--ifm-color-emphasis-300);
      --ifm-table-head-background:  var(--ifm-background-color);
@@ -301,7 +301,7 @@
      --ifm-contrast-foreground-value:  70%;
      --ifm-contrast-background-dark-value:  70%;
      --ifm-contrast-foreground-dark-value:  90%;
-     --ifm-color-primary:  #3B9DDA;
+     --ifm-color-primary:  #24d024;
      --ifm-color-secondary:  #ebedf0;
      --ifm-color-success:  #00a400;
      --ifm-color-info:  #54c7ec;
@@ -444,7 +444,7 @@
      --ifm-list-paragraph-margin:  1rem;
      --ifm-table-cell-padding:  0.75rem;
      --ifm-table-background:  transparent;
-     --ifm-table-stripe-background:  rgba(255,  255,  255,  0.08);
+     --ifm-table-stripe-background:  rgba(255,  255,  255,  0.2);
      --ifm-table-border-width:  1px;
      --ifm-table-border-color:  var(--ifm-color-emphasis-300);
      --ifm-table-head-background:  var(--ifm-background-color);
@@ -963,4 +963,9 @@ a:hover  {
      --ifm-alert-background-color-highlight:  rgba(250,  56,  62,  0.15);
      --ifm-alert-foreground-color:  var( --ifm-color-danger-contrast-foreground );
      --ifm-alert-border-color:  var(--ifm-color-danger-dark);
+ }
+
+
+ .navbar__search-input:hover{
+    border: 1px solid red;
  }

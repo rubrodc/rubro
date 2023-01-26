@@ -1,21 +1,15 @@
 import React, { useEffect, useRef, useState } from "react";
 
-import Link from "@docusaurus/Link";
-import useBaseUrl from "@docusaurus/useBaseUrl";
+
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 
-
-import styles from "./styles.module.css";
 
 function Home() {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
 
   const mainRef = useRef(null);
-  const [isLoading, setIsLoading] = useState(true)
-  const [headerHeight, setHeaderHeight] = useState(1536);
-  const [bannerHeight, setBannerHeight] = useState(256);
 
   useEffect(() => {
     const tempHeaderHeight = Math.max(384, window.innerHeight);
