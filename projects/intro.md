@@ -1,7 +1,11 @@
 ---
 sidebar_position: 1
-title: Hello
+title: Intro
 ---
-# Welcome to my design resources
+# Projects, visual explorations and more
 
-Throughout the years I've been saving an enormous amount of cool resources and websites related to the design field. Here you can take a look at my list.
+Welcome to my projects page! Here, you will find a curated selection of my best work showcasing my skills and creativity in the field of design. From logos to interfaces, each project showcases my passion for design and my ability to bring ideas to life. I hope you enjoy exploring my portfolio and seeing the results of my hard work and dedication to my craft.
+
+:::info Reminder
+This section is still WIP
+:::

@@ -9,21 +9,4 @@ A yearly open call exploring the creative boundaries of letterforms, where parti
 A project that aims to be a space for creation around typography and its endless graphic possibilities.
 
 
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
-![36 Days Of Type Edition N8 - Letter B](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/849728119203665.60ca6aeb8e7db.jpg "36 Days Of Type Edition N8 - Letter B")
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
-![36 Days Of Type Edition N8 - Letter A](https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f6ae78119203665.Y3JvcCw4MDksNjMyLDAsMA.jpg "36 Days Of Type Edition N8 - Letter A")
+![](/img/36dot.jpg)

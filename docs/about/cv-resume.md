@@ -101,7 +101,7 @@ Graphic Design, Identity, Branding, Visual Design, UI / UX, Illustration
 
 ---
 
-## Featured
+## 🎖 Featured
 - [100 Everyday](https://100everyday.org/submissions/new-america)
 - Navigator Dreams - University’s best entry
 - [Design principles: Master compositional flow and rhythm](https://canva.com/learn/flow-and-rhythm/)
