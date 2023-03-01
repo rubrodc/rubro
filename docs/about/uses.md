@@ -14,6 +14,7 @@ Inspired by [uses.tech](https://uses.tech/)
 - WD 1TB External Hard Drive
 - Logitech MX Master 3
 - Canon EOS 250D
+- SONY WH-XB910N
 
 ## Software
 - [Figma](https://www.figma.com) - Design
