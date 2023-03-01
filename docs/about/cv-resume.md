@@ -3,6 +3,8 @@
 
 As a designer, I believe that our role is to address specific challenges within a given time frame. While the concept of "solving problems" is often discussed in relation to design, I believe that this phrase oversimplifies the complexity of our work. In fact, many designs are updated and revised over time, which suggests that complete resolution is not always possible or desirable. Instead, I focus on using effective methods and approaches to minimize the potential for new issues to arise. As designers, we often operate in unfamiliar contexts, and the way we approach a problem, the questions we ask, and the systems we create (such as branding materials or visual designs) can help others to better understand a concept. In the words of Massimo Vignelli, the life of a designer is one of constant struggle against poor design. With this in mind, I strive to create work that is simple, memorable, and enduring, with the goal of combating the proliferation of poor design in the world.
 
+<a target="\_blank" href={require('/static/pdf/2110-cv-rubenrodrigues.pdf').default}>Download pdf file </a>
+
 ---
 
 ## 👨🏻‍💻 Professional Work

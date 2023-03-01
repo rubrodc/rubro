@@ -29,8 +29,9 @@
 -   [Figma](https://www.figma.com/) - the collaborative interface design tool.
 -   [DrawBot](https://www.drawbot.com/index.html) - Create generative graphics
 -   [Checklist Design](https://www.checklist.design/) - A collection of the best design practices.
--   
 -   [4 principles by Paul Rand that may surprise you](https://en.99designs.pt/blog/famous-design/4-principles-by-paul-rand-that-may-surprise-you/)
 -   [r/userexperience](https://www.reddit.com/r/userexperience/)
 -   [](https://www.reddit.com/r/cscareerquestions/comments/ji43eu/heres_how_to_get_into_uiux_design/)[https://www.reddit.com/r/cscareerquestions/comments/ji43eu/heres_how_to_get_into_uiux_design/](https://www.reddit.com/r/cscareerquestions/comments/ji43eu/heres_how_to_get_into_uiux_design/)
 - [Found Color](https://foundcolor.co/) - Found color is an exploration of accidental color schemes
+- [Interface in Game](https://interfaceingame.com/) - Collection of video games UI | Screenshots
+- [Screen Lane](https://screenlane.com/) - Web & mobile UI design inspiration

@@ -1,7 +1,7 @@
 @import url('https://fonts.cdnfonts.com/css/creato-display');
 /* You can override the default Infima variables here. */
  :root {
-
+     --doc-sidebar-width: 300px !important;
      --ifm-color-scheme:  light;
      --ifm-dark-value:  10%;
      --ifm-darker-value:  15%;
@@ -230,8 +230,8 @@
      --ifm-card-vertical-spacing:  var(--ifm-global-spacing);
      --ifm-toc-border-color:  var(--ifm-color-emphasis-300);
      --ifm-toc-link-color:  var(--ifm-color-content-secondary);
-     --ifm-toc-padding-vertical:  0.5rem;
-     --ifm-toc-padding-horizontal:  0.5rem;
+     --ifm-toc-padding-vertical:  .5rem;
+     --ifm-toc-padding-horizontal: 1.5rem;
      --ifm-dropdown-background-color:  var(--ifm-background-surface-color);
      --ifm-dropdown-font-weight:  var(--ifm-font-weight-semibold);
      --ifm-dropdown-link-color:  var(--ifm-font-color-base);
@@ -251,14 +251,14 @@
      --ifm-menu-color-active:  var(--ifm-color-primary);
      --ifm-menu-color-background-active:  var(--ifm-hover-overlay);
      --ifm-menu-color-background-hover:  var(--ifm-hover-overlay);
-     --ifm-menu-link-padding-horizontal:  0.75rem;
-     --ifm-menu-link-padding-vertical:  0.375rem;
+     --ifm-menu-link-padding-horizontal:  .75rem;
+     --ifm-menu-link-padding-vertical:  .375rem;
      --ifm-menu-link-sublist-icon:  url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'%3E%3Cpath fill='none' d='M0 0h24v24H0z'/%3E%3Cpath d='M12 10.828l-4.95 4.95-1.414-1.414L12 8l6.364 6.364-1.414 1.414z' fill='rgba(0,0,0,0.5)'/%3E%3C/svg%3E");
      --ifm-menu-link-sublist-icon-filter:  none;
      --ifm-navbar-background-color:  var(--ifm-background-surface-color);
      --ifm-navbar-height:  3.75rem;
-     --ifm-navbar-item-padding-horizontal:  0.75rem;
-     --ifm-navbar-item-padding-vertical:  0.25rem;
+     --ifm-navbar-item-padding-horizontal:  .75rem;
+     --ifm-navbar-item-padding-vertical:  .25rem;
      --ifm-navbar-link-color:  var(--ifm-font-color-base);
      --ifm-navbar-link-hover-color:  var(--ifm-color-primary);
      --ifm-navbar-link-active-color:  var(--ifm-link-color);
@@ -580,8 +580,8 @@
  .navbar__link {
      color: var(--ifm-navbar-link-color);
      background-color: transparent;
-     font-size: .95rem;
-     font-weight: 500;
+     font-size: .9rem;
+     font-weight: 400;
      border: 0px solid black;
      border-radius: 10px;
      margin-left: 8px;
@@ -600,20 +600,22 @@
      color: var(--ifm-navbar-search-input-color);
      cursor: text;
      display: inline-block;
-     font-size: .95rem;
+     font-size: .9rem;
      height: 2rem;
      padding: 0 0.5rem 0 2.25rem;
      width: 12.5rem;
 }
 /* sidebar */
+
+
  .docSidebarContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-Sidebar-styles-module {
-     background-color: var(--ifm-navbar-sidebar-background-color);
+     background-color: transparent;
      border-right: none !important;
 }
  .menu__link{
-     font-size: .9rem;
-     font-weight: 500;
-     line-height: 1.2;
+     font-size: .85rem;
+     font-weight: 00;
+     line-height: 0.8;
 }
 
 .menu__list-item-collapsible:hover {
@@ -622,10 +624,19 @@
      color: var(--ifm-heading-color);
 
 }
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 calc(var(--ifm-spacing-horizontal) * 1);
+  }
+
+  
  .menu__list .menu__list {
      flex: 0 0 100%;
      margin-left: .85rem;
      margin-top: .25rem;
+     margin-right: 3rem;
      padding-left: var(--ifm-menu-link-padding-horizontal);
      border-left: 1px solid var(--ifm-toc-border-color);
 }
@@ -644,7 +655,7 @@
 }
  .menu__list-item a.menu__link--active, .menu__list-item a:active, .menu__list-item a:hover {
      background: none;
-     font-weight: 600;
+     font-weight: 400;
      color: var(--ifm-heading-color);
 
 }
@@ -652,12 +663,12 @@
     /*first level*/
      border: 100rem;
      color: var(--ifm-heading-color);
-     font-weight: 600;
+     font-weight: 400;
 }
  .menu__list .menu__list a.menu__link--active {
     /*active link*/
     color: var(--ifm-heading-color);
-    font-weight: 600;
+    font-weight: 400;
 }
 
  
@@ -702,7 +713,7 @@
  .table-of-contents__link--active {
      border-left: 1.68px solid var(--ifm-color-primary);
      margin-left: -1.68px;
-     font-weight: 600;
+     font-weight: 400;
 }
  .menu__caret:before {
      content: '';
