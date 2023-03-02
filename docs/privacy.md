@@ -28,7 +28,7 @@ In essence, end-to-end encryption safeguards your information from unintended ac
 - [Youtube (Invidious)](https://vid.puffyan.us)
 - [Instagram](https://imginn.com)
 - [Reddit](https://teddit.net)
-- [Medium](scribe.rip) - change url from "medium.com" part to "scribe.rip"
+- [Medium](https:/scribe.rip) - change url from "medium.com" part to "scribe.rip"
 - [Twitter](https://nitter.priv.pw/)
 
 ## Links
