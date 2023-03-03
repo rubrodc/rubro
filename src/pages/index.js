@@ -3,6 +3,16 @@ import React, { useEffect, useRef, useState } from 'react';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import { Core } from './Core';
+import Image1 from '../../static/img/25abril.jpg';
+import Image2 from '../../static/img/36dot.jpg';
+import Image3 from '../../static/img/100.png';
+import Image4 from '../../static/img/ampersand.png';
+import Image5 from '../../static/img/arrows.jpg';
+import Image6 from '../../static/img/bikeicon.jpg';
+import Image7 from '../../static/img/bloomstone.jpg';
+import Image8 from '../../static/img/burble.gif';
+import Image9 from '../../static/img/cs.png';
+import Image10 from '../../static/img/diamondhands.jpg';
 
 function Home() {
     const context = useDocusaurusContext();
@@ -28,93 +38,36 @@ function Home() {
             <div className='content'>
                 <div className='grid-scroll js-grid'>
                     <div>
-                        <figure
-                            className='js-plane'
-                            data-src='https://assets.codepen.io/58281/lama-3.jpg?width=1100&format=auto'
-                        ></figure>
+                        <figure className='js-plane' data-src={Image1}></figure>
+                    </div>
+                    <div>
+                        <figure className='js-plane' data-src={Image2}></figure>
+                    </div>
+                    <div>
+                        <figure className='js-plane' data-src={Image3}></figure>
+                    </div>
+                    <div>
+                        <figure className='js-plane' data-src={Image4}></figure>
+                    </div>
+                    <div>
+                        <figure className='js-plane' data-src={Image5}></figure>
+                    </div>
+                    <div>
+                        <figure className='js-plane' data-src={Image6}></figure>
+                    </div>
+                    <div>
+                        <figure className='js-plane' data-src={Image7}></figure>
+                    </div>
+                    <div>
+                        <figure className='js-plane' data-src={Image8}></figure>
+                    </div>
+                    <div>
+                        <figure className='js-plane' data-src={Image9}></figure>
                     </div>
                     <div>
                         <figure
                             className='js-plane'
-                            data-src='https://assets.codepen.io/58281/lama-2.jpg?width=1100&format=auto'
-                        ></figure>
-                    </div>
-                    <div>
-                        <figure
-                            className='js-plane'
-                            data-src='https://assets.codepen.io/58281/lama-1.jpg?width=1100&format=auto'
-                        ></figure>
-                    </div>
-                    <div>
-                        <figure
-                            className='js-plane'
-                            data-src='https://assets.codepen.io/58281/lama-3.jpg?width=1100&format=auto'
-                        ></figure>
-                    </div>
-                    <div>
-                        <figure
-                            className='js-plane'
-                            data-src='https://assets.codepen.io/58281/lama-2.jpg?width=1100&format=auto'
-                        ></figure>
-                    </div>
-                    <div>
-                        <figure
-                            className='js-plane'
-                            data-src='https://assets.codepen.io/58281/lama-1.jpg?width=1100&format=auto'
-                        ></figure>
-                    </div>
-                    <div>
-                        <figure
-                            className='js-plane'
-                            data-src='https://assets.codepen.io/58281/lama-3.jpg?width=1100&format=auto'
-                        ></figure>
-                    </div>
-                    <div>
-                        <figure
-                            className='js-plane'
-                            data-src='https://assets.codepen.io/58281/lama-2.jpg?width=1100&format=auto'
-                        ></figure>
-                    </div>
-                    <div>
-                        <figure
-                            className='js-plane'
-                            data-src='https://assets.codepen.io/58281/lama-1.jpg?width=1100&format=auto'
-                        ></figure>
-                    </div>
-                    <div>
-                        <figure
-                            className='js-plane'
-                            data-src='https://assets.codepen.io/58281/lama-3.jpg?width=1100&format=auto'
-                        ></figure>
-                    </div>
-                    <div>
-                        <figure
-                            className='js-plane'
-                            data-src='https://assets.codepen.io/58281/lama-2.jpg?width=1100&format=auto'
-                        ></figure>
-                    </div>
-                    <div>
-                        <figure
-                            className='js-plane'
-                            data-src='https://assets.codepen.io/58281/lama-1.jpg?width=1100&format=auto'
-                        ></figure>
-                    </div>
-                    <div>
-                        <figure
-                            className='js-plane'
-                            data-src='https://assets.codepen.io/58281/lama-1.jpg?width=1100&format=auto'
-                        ></figure>
-                    </div>
-                    <div>
-                        <figure
-                            className='js-plane'
-                            data-src='https://assets.codepen.io/58281/lama-3.jpg?width=1100&format=auto'
-                        ></figure>
-                    </div>
-                    <div>
-                        <figure
-                            className='js-plane'
-                            data-src='https://assets.codepen.io/58281/lama-2.jpg?width=1100&format=auto'
+                            data-src={Image10}
                         ></figure>
                     </div>
                 </div>
