@@ -2,8 +2,6 @@ import React from 'react';
 import * as THREE from 'three';
 import gsap from 'gsap';
 
-console.clear();
-
 let ww = window.innerWidth;
 let wh = window.innerHeight;
 
@@ -88,6 +86,19 @@ export class Core {
         });
     }
 
+    removePlanes() {
+        const planes = [...document.querySelectorAll('.js-plane')];
+
+        this.planes = planes.map((el, i) => {
+            const plane = new Plane();
+            plane.remove(el, i);
+
+            this.scene.remove(plane);
+
+            gsap.ticker.remove(this.tick);
+            return null;
+        });
+    }
     tick = () => {
         const xDiff = this.tx - this.cx;
         const yDiff = this.ty - this.cy;

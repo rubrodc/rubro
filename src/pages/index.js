@@ -19,12 +19,33 @@ function Home() {
     const { siteConfig = {} } = context;
 
     const mainRef = useRef(null);
+    const [isLoading, setIsLoading] = useState(true);
+    const [headerHeight, setHeaderHeight] = useState(1536);
+    const [bannerHeight, setBannerHeight] = useState(256);
 
     useEffect(() => {
         const tempHeaderHeight = Math.max(384, window.innerHeight);
+        setHeaderHeight(tempHeaderHeight);
+        setBannerHeight(Math.max(256, tempHeaderHeight / 2));
+        setIsLoading(false);
         mainRef.current.hidden = false;
 
-        new Core();
+        const elementCanvas = document.querySelector('canvas');
+
+        if (!elementCanvas) {
+            new Core();
+        } else {
+            elementCanvas.hidden = false;
+            elementCanvas.setAttribute('style', 'display: block');
+        }
+
+        return () => {
+            const element = document.querySelector('canvas');
+            if (element) {
+                element.hidden = true;
+                element.setAttribute('style', 'display: none');
+            }
+        };
     }, []);
 
     return (
