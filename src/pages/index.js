@@ -50,12 +50,6 @@ function Home() {
 
     return (
         <Layout title='Home' description={siteConfig.tagline}>
-            <div className='cover'>
-                <h2 className='cover__title'>RÚBEN RODRIGUES</h2>
-                <h3 className='cover__subtitle'>
-                    Full time creative - UI/UX Designer
-                </h3>
-            </div>
             <div className='content'>
                 <div className='grid-scroll js-grid'>
                     <div>
