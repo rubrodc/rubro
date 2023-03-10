@@ -32,3 +32,4 @@ An abbreviation is a shortening by any of these, or other, methods.
 - YNAB - You Need A Budget
 - HSA - Health Savings Account
 - FOSS - Free and Open Source Software
+- IDE - Integrated Development Environment
