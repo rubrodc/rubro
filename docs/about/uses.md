@@ -11,7 +11,7 @@ Inspired by [uses.tech](https://uses.tech/)
 - Macbook Pro 15" 2016 (2,9 GHz i7 16GB RAM)
 - Sony WH-XB910N Headphones + Noise Canceling + Extra Bass
 - iPhone 11 Pro 64GB
-- MI Curved Gaming 34''HP 27es Monitor for bigger pixels
+- MI Curved Gaming 34'' for bigger pixels
 - WD 1TB External Hard Drive
 - Logitech MX Master 3
 - Canon EOS 250D

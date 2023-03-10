@@ -71,23 +71,23 @@ const config = {
             type: 'doc',
             position: 'left',
             docId: 'intro',
-            label: 'Digital Garden',
+            label: '🌱 Digital Garden',
           },
           {
             to: '/projects/intro', 
             position: 'left',
-            label: 'Projects',
+            label: '💻 Projects',
             activeBaseRegex: `/projects/`,
           },
           {
             to: '/resources/intro', 
             position: 'left',
-            label: 'Resources',
+            label: '✏️ Resources',
             activeBaseRegex: `/resources/`,
           },
           {
             to: '/blog',
-            label: 'Blog',
+            label: '📝 Blog',
             position: 'left'
           },
         ],
